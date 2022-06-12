@@ -61,16 +61,16 @@ global.psaweria = 'https://saweria.com/kannabotz'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283143393763'
 global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.namebot = 'Xyz BOT'
+global.nameown = 'Nopan - Sama'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6285862754807'],
+  ['6285862754807'],
+  ['6285862754807'],
+  ['6285862754807', 'Nopan ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -118,11 +118,11 @@ global.APIKeys = { // APIKey Here
 //GANTI SETERAH MU
 global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ Xyz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Xyz BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
