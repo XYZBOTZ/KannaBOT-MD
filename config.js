@@ -51,16 +51,16 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '085862754807'
+global.povo = '085862754807'
+global.pgopay = '085862754807'
+global.ppulsa = '085862754807'
+global.ppulsa2 = '085862754807'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
+global.nomorbot = '6283148340038'
+global.nomorown = '6285862754807'
 global.namebot = 'Xyz BOT'
 global.nameown = 'Nopan - Sama'
 
