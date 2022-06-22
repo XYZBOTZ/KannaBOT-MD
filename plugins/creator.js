@@ -23,7 +23,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *ɴᴀᴍᴇ:* Nopan
 *ᴀɢᴇ:* 17ᵗʰ
 *ᴄʟᴀss:* 10
-*sᴛᴀᴛᴜs:* single 
+*sᴛᴀᴛᴜs:* Pacaran 
 
 *ʙɪʀᴛʜᴅᴀʏ:* 30 Mei 2005
 *ᴀᴅᴅʀᴇss:* Indonesia, jawa barat, Kuningan
